@@ -1,4 +1,4 @@
-/* Reset some default styles to ensure consistency */
+/* Reset rules */
 body,
 h1,
 h2,
@@ -9,7 +9,7 @@ li {
   padding: 0;
 }
 
-/* Define the grid layout for the main content and footer */
+/*  the grid layout */
 .container {
   display: grid;
   grid-template-rows: auto auto 1fr;
@@ -30,7 +30,7 @@ header img {
   margin: 0 auto;
 }
 
-/* Style the navigation menu */
+/* the navigation menu */
 nav {
   background-color: #f2f2f2;
   color: #000000;
